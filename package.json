@@ -1,0 +1,15 @@
+{
+    "name": "audio-annotation-system",
+    "version": "1.0.0",
+    "description": "Audio Annotation Management System using Node.js and frontend technologies",
+    "main": "server/app.js",
+    "scripts": {
+        "start": "node server/app.js"
+    },
+    "dependencies": {
+        "express": "^4.18.2"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
